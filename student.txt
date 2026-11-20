@@ -1,0 +1,7 @@
+Name: Satyam Verma
+Roll Number: 1028
+Branch: CSE
+Semester: 3rd
+Subject: Full Stack Development
+Marks: 95
+Attendance: 95%
